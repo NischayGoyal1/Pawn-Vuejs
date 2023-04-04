@@ -6,7 +6,6 @@
 * Then clone this repository & copy its contents in `activities/Pawn.activity` inside the sugarizer repository
 * Then start sugarizer by running `npm start`
 
-
-
-
-
+Snippet
+---
+![WhatsApp Image 2023-04-04 at 19 15 40](https://user-images.githubusercontent.com/81116984/229874486-9dc59387-8d8f-4a13-aea0-d892222cb2ed.jpeg)
